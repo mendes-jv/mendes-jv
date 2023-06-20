@@ -12,11 +12,11 @@ echo Unleashing the Rhythm of Innovation: Where Minds Compose with Code. 🖥️
 
 ## 
 
-Hello, everyone! I'm João V. Mendes, a 21-year-old software engineering student at 42 São Paulo, where I am pursuing my aspirations of becoming a skilled human coder. I also dream of combining my love for music with the world of technology, while my days are dedicated to honing my coding skills, my love for music keeps me inspired and motivated. 
+Hello, everyone! I'm João V. Mendes, a 21-year-old software engineering student at 42 São Paulo, where I am pursuing my aspiration of becoming a skilled human coder. I also dream of combining my love for music with the world of technology. When my days are dedicated to honing my coding skills, listen to music keeps me inspired and motivated. 
 
-My journey in software engineering has taught me the value of collaboration and the importance of cultivating a respectful and inclusive work environment. As I progress in my studies, my priority is to find opportunities that allow me to further develop my skills while contributing meaningfully as a responsible citizen.
+My journey in technology has taught me the value of collaboration and the importance of cultivating a respectful and inclusive work environment. As I progress in my studies, my priority is to find opportunities that allow me to further develop my skills while exercise my role as a citizen.
 
-If you share my passion for music, have any intriguing ideas, or simply want to connect and exchange thoughts, let's join forces! You can find me on [Linkedin](https://www.linkedin.com/in/jv-mendes/) or [Discord](discordapp.com/users/233882480606838784).
+If you share passion for music, have any intriguing ideas, or simply want to connect and exchange thoughts, let's join forces! You can find me on [Linkedin](https://www.linkedin.com/in/jv-mendes/) or [Discord](discordapp.com/users/233882480606838784).
 
 <div align="center">
 

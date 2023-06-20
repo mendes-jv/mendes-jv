@@ -10,7 +10,11 @@ echo Unleashing the Rhythm of Innovation: Where Minds Compose with Code. 🖥️
 
 > You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity. – John Romero
 
-## 
+<div align="center">
+
+## About Me
+
+</div>
 
 Hello, everyone! I'm João V. Mendes, a 21-year-old software engineering student at 42 São Paulo, where I am pursuing my aspiration of becoming a skilled human coder. I also dream of combining my love for music with the world of technology. When my days are dedicated to honing my coding skills, listen to music keeps me inspired and motivated. 
 

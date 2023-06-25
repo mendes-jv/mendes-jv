@@ -20,11 +20,18 @@ Hello, everyone! I'm João V. Mendes, a 21-year-old software engineering student
 
 My journey in technology has taught me the value of collaboration and the importance of cultivating a respectful and inclusive work environment. As I progress in my studies, my priority is to find opportunities that allow me to further develop my skills while exercise my role as a citizen.
 
-If you share passion for music, have any intriguing ideas, or simply want to connect and exchange thoughts, let's join forces! You can find me on [Linkedin](https://www.linkedin.com/in/jv-mendes/) or [Discord](discordapp.com/users/233882480606838784).
+If you share passion for music, have any intriguing ideas, or simply want to connect and exchange thoughts, let's join forces!
 
 <div align="center">
 
-## Languages And Tools I Have Used:
+## Where To Find Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jv-mendes/)
+[![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?&logo=Discord&logoColor=white)](https://discordapp.com/users/233882480606838784)
+
+[![42 Game](https://img.shields.io/badge/Game-profile-dark_green?&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/jovicto2)
+
+## Languages And Tools I Have Used
 
 ![Git](https://img.shields.io/badge/-Git-%23F24E1E?&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-%2320232a.svg?&logo=Github&logoColor=white)
@@ -65,7 +72,7 @@ If you share passion for music, have any intriguing ideas, or simply want to con
 [![get-next-line](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)](https://github.com/mendes-jv/get-next-line "125/100")
 [![ft_printf](https://game.42sp.org.br/static/assets/achievements/ft_printfn.png)](https://github.com/mendes-jv/ft-printf "Current Project")
 
-[![42SP](https://img.shields.io/badge/jovicto2-click_here_to_see_my_profile-white?&logo=42&logoColor=white)](https://profile.intra.42.fr/users/jovicto2)
+[![42SP](https://img.shields.io/badge/Intra-jovicto2-dark_green?&logo=42&logoColor=white)](https://profile.intra.42.fr/users/jovicto2)
 
-
+![](https://komarev.com/ghpvc/?username=mendes-jv&color=red)
 </div>

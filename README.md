@@ -68,11 +68,11 @@ If you share passion for music, have any intriguing ideas, or simply want to con
 
 ## 42 School Projects
 
+[![42SP](https://img.shields.io/badge/Intra-jovicto2-dark_green?&logo=42&logoColor=white)](https://profile.intra.42.fr/users/jovicto2)
+
 [![Libft](https://game.42sp.org.br/static/assets/achievements/libftm.png)](https://github.com/mendes-jv/libft "125/100")
 [![get-next-line](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)](https://github.com/mendes-jv/get-next-line "125/100")
 [![ft_printf](https://game.42sp.org.br/static/assets/achievements/ft_printfn.png)](https://github.com/mendes-jv/ft-printf "Current Project")
-
-[![42SP](https://img.shields.io/badge/Intra-jovicto2-dark_green?&logo=42&logoColor=white)](https://profile.intra.42.fr/users/jovicto2)
 
 ![](https://komarev.com/ghpvc/?username=mendes-jv&color=red)
 </div>

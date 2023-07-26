@@ -28,9 +28,10 @@ If you share passion for music, have any intriguing ideas, or simply want to con
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jv-mendes/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?&logo=GMail&logoColor=white)](mailto:mendes.silva.jv@gmail.com)
-
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?&logo=Discord&logoColor=white)](https://discordapp.com/users/233882480606838784)
+
 [![42 Game](https://img.shields.io/badge/Game-profile-dark_green?&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/jovicto2)
+[![wakatime](https://wakatime.com/badge/user/95b593f1-ae41-47db-a170-81f83e041dd2.svg)](https://wakatime.com/@95b593f1-ae41-47db-a170-81f83e041dd2)
 
 ## Languages And Tools I Have Used
 

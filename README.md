@@ -35,18 +35,19 @@ If you share passion for music, have any intriguing ideas, or simply want to con
 
 ## Languages And Tools I Have Used
 
+![CLion](https://img.shields.io/badge/-Clion-088F8F?&logo=Clion&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-green?&logo=VIM&logoColor=black)
+![Nvim](https://img.shields.io/badge/-Nvim-%23121011?&logo=Neovim)
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?&logo=Visual%20Studio%20Code&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-%23F24E1E?&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-%2320232a.svg?&logo=Github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?&logo=markdown&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-%2320232a.svg?&logo=markdown&logoColor=white)
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?&logo=gnu-bash&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-%23F24E1E.svg?&logo=monzo&logoColor=white)
-
-![Vim](https://img.shields.io/badge/-Vim-green?&logo=VIM&logoColor=black)
-![Nvim](https://img.shields.io/badge/-Nvim-%23121011?&logo=Neovim&logoColor=white")
-![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?&logo=Visual%20Studio%20Code&logoColor=white")
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?&logo=Kotlin&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?&logo=Gradle&logoColor=white)
@@ -74,7 +75,8 @@ If you share passion for music, have any intriguing ideas, or simply want to con
 
 [![Libft](https://game.42sp.org.br/static/assets/achievements/libftm.png)](https://github.com/mendes-jv/libft "125/100")
 [![Get Next Line](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)](https://github.com/mendes-jv/get-next-line "125/100")
-[![Ft Printf](https://game.42sp.org.br/static/assets/achievements/ft_printfn.png)](https://github.com/mendes-jv/ft-printf "Current Project")
+[![Ft Printf](https://game.42sp.org.br/static/assets/achievements/ft_printfm.png)](https://github.com/mendes-jv/ft-printf "125/100")
+[![Born2BeRoot](https://game.42sp.org.br/static/assets/achievements/born2berootn.png)](https://github.com/mendes-jv/born-to-be-root "Current Project")
 
 ![Profile View](https://komarev.com/ghpvc/?username=mendes-jv&color=red)
 </div>

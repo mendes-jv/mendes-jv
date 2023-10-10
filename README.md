@@ -79,5 +79,4 @@ If you share passion for music, have any intriguing ideas, or simply want to con
 [![Born2BeRoot](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)](https://github.com/mendes-jv/born-to-be-root "125/100")
 [![Fdf](https://game.42sp.org.br/static/assets/achievements/fdfn.png)](https://github.com/mendes-jv/fdf "Current Project")
 
-![Profile View](https://komarev.com/ghpvc/?username=mendes-jv&color=red)
 </div>

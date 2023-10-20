@@ -1,12 +1,13 @@
 <div align="center">
 
-```zsh
-You might not think that programmers are artists, but programming is an extremely creative profession. 
-🎨 It’s logic-based creativity. 🖥️
-– John Romero
-```
-
 ![Gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVrNW1qMDcxYm1sZ2pkeHlkeWE0N29qbmJnczNvejVwYXRqa2wyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DyojcnCuFN74wlVRJ9/giphy.gif)
+
+</div>
+
+> You might not think that programmers are artists, but programming is an extremely creative profession.
+> It’s logic-based creativity. – John Romero
+
+<div align="center">
 
 ## About Me
 

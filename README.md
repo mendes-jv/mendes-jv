@@ -74,6 +74,8 @@ If you share passion for music, have any intriguing ideas, or simply want to con
 [![Get Next Line](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)](https://github.com/mendes-jv/get-next-line "125/100")
 [![Ft Printf](https://game.42sp.org.br/static/assets/achievements/ft_printfm.png)](https://github.com/mendes-jv/ft-printf "125/100")
 [![Born2BeRoot](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)](https://github.com/mendes-jv/born-to-be-root "125/100")
-[![Fdf](https://game.42sp.org.br/static/assets/achievements/fdfn.png)](https://github.com/mendes-jv/fdf "Current Project")
+[![Fdf](https://game.42sp.org.br/static/assets/achievements/fdfm.png)](https://github.com/mendes-jv/fdf "125/100")
+[![Minitalk](https://game.42sp.org.br/static/assets/achievements/minitalkn.png)](https://github.com/mendes-jv/minitalk "Current Project")
+
 
 </div>

@@ -80,7 +80,7 @@ If you share passion for music, have any intriguing ideas, or simply want to con
 ### Level 2 - Expanding Horizons
 
 [![Push_Swap](https://game.42sp.org.br/static/assets/achievements/push_swapm.png)](https://github.com/mendes-jv/push-swap "125/100")
-[![Minishell](https://game.42sp.org.br/static/assets/achievements/minishelln.png)](https://github.com/mendes-jv/push-swap "Current project...")
+[![Minishell](https://game.42sp.org.br/static/assets/achievements/minishelln.png)](https://github.com/mendes-jv/minishell "Current project...")
 
 [![42SP](https://img.shields.io/badge/Intra-jovicto2-dark_green?&logo=42&logoColor=white)](https://profile.intra.42.fr/users/jovicto2)
 

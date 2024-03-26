@@ -67,6 +67,9 @@ If you share passion for music, have any intriguing ideas, or simply want to con
 
 ## 42 School Projects
 
+[![42 Intra](https://img.shields.io/badge/Intra-jovicto2-dark_green?&logo=42&logoColor=white)](https://profile.intra.42.fr/users/jovicto2)
+[![42 Game](https://img.shields.io/badge/Game-profile-dark_green?&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/jovicto2)
+
 ### Level 1 - Entering Orbit
 
 [![Libft](https://game.42sp.org.br/static/assets/achievements/libftm.png)](https://github.com/mendes-jv/libft "125/100")
@@ -80,9 +83,5 @@ If you share passion for music, have any intriguing ideas, or simply want to con
 
 [![Push_Swap](https://game.42sp.org.br/static/assets/achievements/push_swapm.png)](https://github.com/mendes-jv/push-swap "125/100")
 [![Minishell](https://game.42sp.org.br/static/assets/achievements/minishelln.png)](https://github.com/mendes-jv/minishell "Current project...")
-
-[![42 Intra](https://img.shields.io/badge/Intra-jovicto2-dark_green?&logo=42&logoColor=white)](https://profile.intra.42.fr/users/jovicto2)
-[![42 Game](https://img.shields.io/badge/Game-profile-dark_green?&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/jovicto2)
-
 
 </div>

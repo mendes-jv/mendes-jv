@@ -27,9 +27,6 @@ If you share passion for music, have any intriguing ideas, or simply want to con
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?&logo=GMail&logoColor=white)](mailto:mendes.silva.jv@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?&logo=Discord&logoColor=white)](https://discordapp.com/users/233882480606838784)
 
-[![wakatime](https://wakatime.com/badge/user/95b593f1-ae41-47db-a170-81f83e041dd2.svg)](https://wakatime.com/@95b593f1-ae41-47db-a170-81f83e041dd2)
-[![42 Game](https://img.shields.io/badge/Game-profile-dark_green?&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/jovicto2)
-
 ## Languages And Tools I Have Used
 
 ![CLion](https://img.shields.io/badge/-Clion-088F8F?&logo=Clion&logoColor=white)
@@ -61,7 +58,9 @@ If you share passion for music, have any intriguing ideas, or simply want to con
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2320232a.svg?&logo=adobephotoshop&logoColor=dark-blue)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white)
 
-## Github Status
+## Statistics
+
+[![wakatime](https://wakatime.com/badge/user/95b593f1-ae41-47db-a170-81f83e041dd2.svg)](https://wakatime.com/@95b593f1-ae41-47db-a170-81f83e041dd2)
 
 [![Github Status](https://raw.githubusercontent.com/mendes-jv/github-stats-transparent/output/generated/overview.svg)](#)
 [![Github Languages Status](https://raw.githubusercontent.com/mendes-jv/github-stats-transparent/output/generated/languages.svg)](#)
@@ -82,6 +81,8 @@ If you share passion for music, have any intriguing ideas, or simply want to con
 [![Push_Swap](https://game.42sp.org.br/static/assets/achievements/push_swapm.png)](https://github.com/mendes-jv/push-swap "125/100")
 [![Minishell](https://game.42sp.org.br/static/assets/achievements/minishelln.png)](https://github.com/mendes-jv/minishell "Current project...")
 
-[![42SP](https://img.shields.io/badge/Intra-jovicto2-dark_green?&logo=42&logoColor=white)](https://profile.intra.42.fr/users/jovicto2)
+[![42 Intra](https://img.shields.io/badge/Intra-jovicto2-dark_green?&logo=42&logoColor=white)](https://profile.intra.42.fr/users/jovicto2)
+[![42 Game](https://img.shields.io/badge/Game-profile-dark_green?&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/jovicto2)
+
 
 </div>

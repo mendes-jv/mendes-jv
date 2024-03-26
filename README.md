@@ -17,7 +17,7 @@ Hello, everyone! I'm João V. Mendes, a 22-year-old software engineering student
 
 My journey in technology has taught me the value of collaboration and the importance of cultivating a respectful and inclusive work environment. As I progress in my studies, my priority is to find opportunities that allow me to further develop my skills while exercise my role as a citizen.
 
-If you share passion for music, have any intriguing ideas, or simply want to connect and exchange thoughts, let's join forces!
+If you share passion for music, have any intriguing ideas, or simply want to connect and exchange thoughts, send me a message!
 
 <div align="center">
 

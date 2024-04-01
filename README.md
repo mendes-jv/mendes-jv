@@ -83,5 +83,6 @@ If you share passion for music, have any intriguing ideas, or simply want to con
 
 [![Push_Swap](https://game.42sp.org.br/static/assets/achievements/push_swapm.png)](https://github.com/mendes-jv/push-swap "125/100")
 [![Minishell](https://game.42sp.org.br/static/assets/achievements/minishelln.png)](https://github.com/mendes-jv/minishell "Current project...")
+[![Philosophers](https://game.42sp.org.br/static/assets/achievements/philosophersn.png)](https://github.com/mendes-jv/minitalk "Current project...")
 
 </div>

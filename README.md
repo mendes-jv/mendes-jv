@@ -80,7 +80,7 @@ My journey in technology has taught me the value of collaboration and the import
 ### Level 2 - Expanding Horizons
 
 [![Push_Swap](https://game.42sp.org.br/static/assets/achievements/push_swapm.png)](https://github.com/mendes-jv/push-swap "125/100")
-[![Minishell](https://game.42sp.org.br/static/assets/achievements/minishelln.png)](https://github.com/mendes-jv/minishell "Current project...")
+[![Minishell](https://game.42sp.org.br/static/assets/achievements/minishelln.png)](https://github.com/mendes-jv/minishell "102/100")
 [![Philosophers](https://game.42sp.org.br/static/assets/achievements/philosophersn.png)](https://github.com/mendes-jv/philosophers "Current project...")
 
 </div>

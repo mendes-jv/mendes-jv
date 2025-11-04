@@ -13,7 +13,7 @@
 
 </div>
 
-Hello, everyone! I'm João V. Mendes, a 23-year-old software engineering student at [42 São Paulo](https://www.42network.org/campuses/42-sao-paulo/). I also dream of combining my love for music with the world of technology. When my days are dedicated to honing my coding skills, listen to music keeps me inspired and motivated. 
+Hello, everyone! I'm João V. Mendes, a 24-year-old software engineering student at [42 São Paulo](https://www.42network.org/campuses/42-sao-paulo/). I also dream of combining my love for music with the world of technology. When my days are dedicated to honing my coding skills, listen to music keeps me inspired and motivated. 
 
 My journey in technology has taught me the value of collaboration and the importance of cultivating a respectful and inclusive work environment. As I progress in my studies, my priority is to find opportunities that allow me to further develop my skills while exercise my role as a citizen.
 
